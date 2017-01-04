@@ -1,25 +1,27 @@
 ## Initial directory structure
 
+
+npm install && npm run bower
+
 ~~~~
 application/
  ├── index.html
  ├── font/
  ├── image/
- ├── script/
- |    ├── app/
+ ├── script
+ |    ├── app
  |    |    ├── collection/
  |    |    ├── config/
  |    |    ├── controller/
  |    |    ├── helper/
  |    |    ├── locale/
- |    |    |     \-- en/
+ |    |    |     └── en/
  |    |    ├── model/
  |    |    ├── template/
  |    |    └── view/
- |    └── vendor/
- |         ├── lib/
- |         └── plugin/
- └── style/
-      └── css/
+ |    └── vendor
+ |         └── lib/
+ └── style
+      └── css
            └── lib/
 ~~~~

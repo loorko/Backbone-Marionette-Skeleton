@@ -9,7 +9,7 @@
   },
   "homepage": "http://byroland.com",
   "scripts": {
-    "install": "bower install"
+    "bower": "bower install & bower-installer"
   },
   "dependencies": {
     "bower":            "latest",
