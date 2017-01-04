@@ -2,7 +2,7 @@ require( ['jquery',
           'marionette',
           'handlebars',
           'app' ],
-        function( $, Marionette, Handlebars, Application ) {
+function( $, Marionette, Handlebars, Application ) {
   Marionette.TemplateCache.prototype.compileTemplate = function(rawTemplate) {
     return Handlebars.compile(rawTemplate);
   };
