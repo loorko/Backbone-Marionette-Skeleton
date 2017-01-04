@@ -31,7 +31,7 @@
         "bower_components/underscore/underscore-min.js"
       ],
       "requirejs": [
-        "bower_components/requirejs/requirejs.js"
+        "bower_components/requirejs/require.js"
       ],
       "backbone": [
         "bower_components/backbone/backbone-min.js"

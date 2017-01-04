@@ -1,6 +1,5 @@
 ## Initial directory structure
 
-
 npm install && npm run bower
 
 ~~~~
