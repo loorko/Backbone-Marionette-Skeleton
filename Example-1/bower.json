@@ -1,0 +1,17 @@
+{
+  "name": "BackboneMarionetteApp",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery":               "latest",
+    "underscore":           "latest",
+    "requirejs":            "latest",
+    "backbone":             "latest",
+    "backbone.marionette":  "latest",
+    "marionette.handlebars":"latest",
+    "handlebars":           "latest",
+    "bootstrap":            "latest",
+    "text":                 "latest",
+    "i18next":              "latest",
+    "i18next-xhr-backend":  "latest"
+  }
+}
