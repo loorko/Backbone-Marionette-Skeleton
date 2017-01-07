@@ -12,8 +12,10 @@ application/
  |    |    ├── collection/
  |    |    ├── config/
  |    |    ├── controller/
+ |    |    ├── extend/
  |    |    ├── helper/
  |    |    ├── locale/
+ |    |    |     ├── de/
  |    |    |     └── en/
  |    |    ├── model/
  |    |    ├── template/

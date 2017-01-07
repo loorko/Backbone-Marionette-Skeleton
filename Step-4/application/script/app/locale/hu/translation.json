@@ -1,0 +1,19 @@
+{
+  "SignUp": {
+    "Sign Up"         : "Regisztráció",
+    "Username"        : "Felhasználónév:",
+    "username"        : "felhasználónév",
+    "Email address"   : "Email cím:",
+    "email address"   : "email cím",
+    "Password"        : "Jelszó:",
+    "Repeat Password" : "Jelszó ismétlése:",
+    "Language"        : "Nyelv:",
+    "select"          : "válasszon",
+    "Gender"          : "Neme:",
+    "Male"            : "Férfi",
+    "Female"          : "Nő",
+    "Age"             : "Életkor:"
+  },
+  "Please enter an email address" : "Kérem írjon be egy email címet",
+  "Please enter a valid email"    : "Kérem írjon be egy valid email címet"
+}
