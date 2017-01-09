@@ -1,6 +1,6 @@
 define([ 'handlebars' ],
   function( Handlebars ){
-		return{
+    return{
 			valid: function (view, attr, selector) {
 				var $el = view.$('[name=' + attr + ']'), 
 									$group = $el.closest('.form-group');    
